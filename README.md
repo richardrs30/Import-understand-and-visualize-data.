@@ -1,4 +1,4 @@
-# Import-understand-and-visualize-data. 🗃️📊🐍
+# Importar entender y visualizar los datos. 🗃️📊🐍
 Importación, comprensión y visualización del conjunto de datos "Adult".
 
 ## Objetivo del módulo: 
