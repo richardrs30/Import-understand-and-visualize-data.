@@ -1,4 +1,4 @@
-# Importar entender y visualizar los datos. 🗃️📊🐍
+# Importar, entender y visualizar los datos. 🗃️📊🐍
 Importación, comprensión y visualización del conjunto de datos "Adult".
 
 ## Objetivo del módulo: 
